@@ -18,6 +18,7 @@
       ['Q','spade'],
       ['K','spade']
    ];
+   
    suits['hearts'] = [
       ['A','heart'],
       ['2','heart'],
